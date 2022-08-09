@@ -1,9 +1,10 @@
 ## Bio
 
-Hi there 👋. I'm mainly involved on free software development.
+Hi there 👋. I'm mainly involved in free software development, mainly in
+backend and C++.
 
 - 🔭 I’m currently enrolled in [FCC's data-vizaualization](https://www.freecodecamp.org/learn/data-visualization/) certification.
-- and actually reinstalling my manjaro thing after a HD failure xD
+- Manjaro finally installed!
 
 <!--
 **jepasq/jepasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
