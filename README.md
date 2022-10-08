@@ -4,7 +4,7 @@ Hi there 👋. I'm mainly involved in free software development, mainly in
 backend and C++.
 
 - 🔭 I’m currently enrolled in [FCC's data-vizaualization](https://www.freecodecamp.org/learn/data-visualization/) certification.
-- Manjaro finally installed!
+- ⚡ Sometimes playing DotA 2 or Diablo 3.
 
 <!--
 **jepasq/jepasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ## Statistics
