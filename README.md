@@ -5,7 +5,7 @@ backend and C++.
 
 - 🔭 I’m currently enrolled in [FCC's data-vizaualization](https://www.freecodecamp.org/learn/data-visualization/) certification.
 - ⚡ Sometimes playing DotA 2 or Diablo 3 (thanks to [wine](https://github.com/wine-mirror/wine) and [lutris](https://github.com/lutris/lutris)).
-- 🌱 Manjaro user
+- 🌱 Manjaro and crypto user; ☕ coffee lover.
 
 <!--
 **jepasq/jepasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
