@@ -1,9 +1,9 @@
 ## Bio
 
-Hi there 👋. I'm mainly involved in free software development, mainly in
+Hi there 👋. I'm every day involved in free software development, mainly in
 backend and C++.
 
-- 🔭 I’m currently enrolled in [FCC's data-vizaualization](https://www.freecodecamp.org/learn/data-visualization/) certification.
+- 🔭 I’m currently enrolled in FreeCodeCamp's [data-vizaualization](https://www.freecodecamp.org/learn/data-visualization/) certification.
 - ⚡ Sometimes playing DotA 2 or Diablo 3 (thanks to [wine](https://github.com/wine-mirror/wine) and [lutris](https://github.com/lutris/lutris)).
 - 🌱 Manjaro and crypto user. 
 - ☕ coffee lover and [mastodon](https://github.com/mastodon/mastodon) user (AT rainbru AT piaille.fr).
