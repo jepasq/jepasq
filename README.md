@@ -5,9 +5,8 @@ backend and C++.
 
 - 🔭 I’m currently enrolled in FreeCodeCamp's [data-vizaualization](https://www.freecodecamp.org/learn/data-visualization/) certification.
 - ⚡ Sometimes playing DotA 2 or Diablo 3 (thanks to [wine](https://github.com/wine-mirror/wine) and [lutris](https://github.com/lutris/lutris)).
-- 🤔 Learning DAPP model and solidity programming language in my spare time.
+- 🤔 Learning DAPP model, solidity and various functional programming languages in my spare time. Some of these test repositories may spawn around.
 - ☕ Coffee lover and [mastodon](https://github.com/mastodon/mastodon) user (AT rainbru AT piaille.fr).
-- 👯 Finally not COVID-free anymore since 12/2022.
 - 🌱 Manjaro and crypto user. 
 
 <!--
@@ -19,6 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+
+<p align=center>⁂</p>
 
 ## Statistics
 
