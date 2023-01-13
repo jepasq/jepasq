@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 ## Statistics
 
 <a href="https://github.com/jepasq/jepasq">
-  <img align="center" style="max-width:250px" src="https://github-readme-stats.vercel.app/api?username=jepasq&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" style="max-width:250px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jepasq&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/jepasq/jepasq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepasq&layout=compact&theme=tokyonight&langs_count=8" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jepasq&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
 
 
