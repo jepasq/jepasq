@@ -4,7 +4,7 @@ Hi there 👋. I'm every day involved in free software development, mainly &mdas
 backend and C++.
 
 - 🔭 Enrolled in **FreeCodeCamp**'s [data-visualization](https://www.freecodecamp.org/learn/data-visualization/) certification but currently on hiatus.
-- ⚡ Frequently playing *DotA 2*, *Diablo 3* or various [IDLE games](https://en.wikipedia.org/wiki/Incremental_game) (thanks to [wine](https://github.com/wine-mirror/wine) and [lutris](https://github.com/lutris/lutris)).
+- ⚡ Frequently playing *DotA 2* (mainly *offlaner* or *soft support*) or various [IDLE games](https://en.wikipedia.org/wiki/Incremental_game) (thanks to [wine](https://github.com/wine-mirror/wine) and [lutris](https://github.com/lutris/lutris)).
 - 🤔 Learning DAPP model, *solidity* and various functional programming languages in my spare time. Some of these test repositories may spawn around.
 - ☕ Coffee lover and [mastodon](https://github.com/mastodon/mastodon) user (AT rainbru AT piaille.fr).
 - 🌱 Almost happy *Manjaro* and  [POS](https://en.wikipedia.org/wiki/Proof_of_stake) crypto-currencies user. 
