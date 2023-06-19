@@ -5,7 +5,7 @@ backend and C++.
 
 - 🔭 Enrolled in **FreeCodeCamp**'s [data-visualization](https://www.freecodecamp.org/learn/data-visualization/) certification but currently on hiatus.
 - ⚡ Frequently playing *DotA 2* (mainly *offlaner* or *soft support*) or various [IDLE games](https://en.wikipedia.org/wiki/Incremental_game) (thanks to [wine](https://github.com/wine-mirror/wine) and [lutris](https://github.com/lutris/lutris)).
-- 🤔 Learning DAPP model, *solidity* and various functional programming languages in my spare time. Some of these test repositories may spawn around.
+- 🤔 Learning [DApp](https://en.wikipedia.org/wiki/Decentralized_application) model, *solidity* and various functional programming languages in my spare time. Some of these test repositories may spawn around.
 - ☕ Coffee lover and [mastodon](https://github.com/mastodon/mastodon) user (AT rainbru AT piaille.fr).
 - 🌱 Almost happy *Manjaro* and  [POS](https://en.wikipedia.org/wiki/Proof_of_stake) crypto-currencies user. 
 - 💬 Waiting for [osu lazer](https://github.com/ppy/osu)!
@@ -30,7 +30,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/jepasq/jepasq">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jepasq&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
-
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jepasq.jepasq)
