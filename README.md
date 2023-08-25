@@ -1,11 +1,11 @@
 ## Bio
 
 Hi there 👋. I'm every day involved in free software development, mainly &mdash; but not only &mdash; in
-backend and *C++* and interpreted languages such as *ruby* or *python*. Regularly trying to learn new, functionnal languages (including *haskell*, *ocaml*, multiple *scheme* dialects and *erlang*).
+backend and *C++* and interpreted languages such as *ruby* or *python*. Regularly trying to learn new, functionnal languages (including *haskell*, *ocaml*, multiple *scheme* dialects and *erlang*). Some of these test repositories may spawn around.
 
 - 🔭 Enrolled in **FreeCodeCamp**'s [data-visualization](https://www.freecodecamp.org/learn/data-visualization/) certification but currently on hiatus.
 - ⚡ Frequently playing *DotA 2* (mainly *offlaner* or *soft support*) or various [IDLE games](https://en.wikipedia.org/wiki/Incremental_game) (thanks to [wine](https://github.com/wine-mirror/wine) and [lutris](https://github.com/lutris/lutris)).
-- 🤔 Learning [DApp](https://en.wikipedia.org/wiki/Decentralized_application) model, *solidity* and various functional programming languages in my spare time. Some of these test repositories may spawn around.
+- 🤔 Learning [DApp](https://en.wikipedia.org/wiki/Decentralized_application) model and [solidity](https://en.wikipedia.org/wiki/Solidity) in my spare time. 
 - ☕ Coffee lover and [mastodon](https://github.com/mastodon/mastodon) user (AT rainbru AT piaille.fr).
 - 🌱 Almost happy [Manjaro](https://manjaro.org/) and  [POS](https://en.wikipedia.org/wiki/Proof_of_stake) crypto-currencies user. 
 - 💬 Waiting for [osu lazer](https://github.com/ppy/osu)!
