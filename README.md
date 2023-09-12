@@ -1,7 +1,9 @@
 ## Bio
 
-Hi there 👋. I'm every day involved in free software development, mainly &mdash; but not only &mdash; in
-backend and *C++* and interpreted languages such as *ruby* or *python*. Regularly trying to learn new, functionnal languages (including *haskell*, *ocaml*, multiple *scheme* dialects and *erlang*). Some of these test repositories may spawn around.
+Hi there 👋.
+
+I'm every day involved in free software development, mainly &mdash; but not only &mdash; in
+backend in *C* or *C++*. Occasionally using interpreted languages such as *ruby* or *python*. Regularly trying to learn new, functionnal languages (including *haskell*, *ocaml*, multiple *scheme* dialects and *erlang*). Some of these test repositories may spawn around.
 
 - 🔭 Enrolled in **FreeCodeCamp**'s [data-visualization](https://www.freecodecamp.org/learn/data-visualization/) certification but currently on hiatus.
 - ⚡ Frequently playing *DotA 2* (mainly *offlaner* or *soft support*) or various [IDLE games](https://en.wikipedia.org/wiki/Incremental_game) (thanks to [wine](https://github.com/wine-mirror/wine) and [lutris](https://github.com/lutris/lutris)).
