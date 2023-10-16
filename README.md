@@ -9,7 +9,8 @@ backend in *C* or *C++*. Occasionally using interpreted languages such as *ruby*
 - ⚡ Frequently playing *DotA 2* (mainly *offlaner* or *soft support*) or various [IDLE games](https://en.wikipedia.org/wiki/Incremental_game) (thanks to [wine](https://github.com/wine-mirror/wine) and [lutris](https://github.com/lutris/lutris)).
 - 🤔 Learning [DApp](https://en.wikipedia.org/wiki/Decentralized_application) model and [solidity](https://en.wikipedia.org/wiki/Solidity) in my spare time. 
 - ☕ Coffee lover and [mastodon](https://github.com/mastodon/mastodon) user (AT rainbru AT piaille.fr).
-- 🌱 Almost happy [Manjaro](https://manjaro.org/) and  [POS](https://en.wikipedia.org/wiki/Proof_of_stake) crypto-currencies user. 
+- 🌱 Almost happy [Manjaro](https://manjaro.org/) and  [POS](https://en.wikipedia.org/wiki/Proof_of_stake) crypto-currencies user.
+- 😄 [2b2t](https://fr.wikipedia.org/wiki/2b2t) newcomer.
 - 💬 Waiting for [osu lazer](https://github.com/ppy/osu)!
 
 <!--
@@ -17,9 +18,7 @@ backend in *C* or *C++*. Occasionally using interpreted languages such as *ruby*
 
 Here are some ideas to get you started:
 
-
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 -->
 
 <p align=center>⁂</p>
