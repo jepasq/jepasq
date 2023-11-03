@@ -10,7 +10,7 @@ backend in *C* or *C++*. Occasionally using interpreted languages such as *ruby*
 - 🤔 Learning [DApp](https://en.wikipedia.org/wiki/Decentralized_application) model and [solidity](https://en.wikipedia.org/wiki/Solidity) in my spare time. 
 - ☕ Coffee lover and [mastodon](https://github.com/mastodon/mastodon) user (AT rainbru AT piaille.fr).
 - 🌱 Almost happy [Manjaro](https://manjaro.org/) and  [POS](https://en.wikipedia.org/wiki/Proof_of_stake) crypto-currencies user.
-- 😄 [2b2t](https://en.wikipedia.org/wiki/2b2t) newcomer.
+- 😄 [2b2t](https://en.wikipedia.org/wiki/2b2t) player (3 weeks in and running).
 - 💬 Waiting for [osu lazer](https://github.com/ppy/osu)!
 
 <!--
