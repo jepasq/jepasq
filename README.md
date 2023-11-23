@@ -1,3 +1,11 @@
+<!--
+**jepasq/jepasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 📫 How to reach me: ...
+-->
+
 ## Bio
 
 Hi there 👋.
@@ -12,14 +20,6 @@ backend in *C* or *C++*. Occasionally using interpreted languages such as *ruby*
 - 🌱 Almost happy [Manjaro](https://manjaro.org/) and  [POS](https://en.wikipedia.org/wiki/Proof_of_stake) crypto-currencies user.
 - 😄 [2b2t](https://en.wikipedia.org/wiki/2b2t) player (3 weeks in and running).
 - 💬 Waiting for [osu lazer](https://github.com/ppy/osu)!
-
-<!--
-**jepasq/jepasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 📫 How to reach me: ...
--->
 
 <p align=center>⁂</p>
 
