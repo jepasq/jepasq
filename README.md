@@ -24,6 +24,8 @@ backend in *C* or *C++*. Occasionally using interpreted languages such as *ruby*
 
 ## Statistics
 
+Here are some ~not so~ useful statistics :
+
 <a href="https://github.com/jepasq/jepasq">
   <img align="center" style="max-width:250px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jepasq&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
