@@ -14,13 +14,17 @@ I'm every day involved in free software development, mainly &mdash; but not only
 backend in *C* or *C++*. Occasionally using interpreted languages such as *ruby* or *python*. Regularly trying to learn new, functionnal languages (including *haskell*, *ocaml*, multiple *scheme* dialects and *erlang*). Some of these test repositories may spawn around.
 
 - 🔭 Enrolled in **FreeCodeCamp**'s [data-visualization](https://www.freecodecamp.org/learn/data-visualization/) certification but currently on hiatus.
-- ⚡ Frequently playing *DotA 2* (mainly *offlaner* or *soft support*) or various [IDLE games](https://en.wikipedia.org/wiki/Incremental_game) (thanks to [wine](https://github.com/wine-mirror/wine) and [lutris](https://github.com/lutris/lutris)).
 - 🤔 Learning [DApp](https://en.wikipedia.org/wiki/Decentralized_application) model and [solidity](https://en.wikipedia.org/wiki/Solidity) in my spare time. 
 - ☕ Coffee lover and [mastodon](https://github.com/mastodon/mastodon) user (AT rainbru AT piaille.fr).
 - 🌱 Almost happy [Manjaro](https://manjaro.org/) and  [POS](https://en.wikipedia.org/wiki/Proof_of_stake) crypto-currencies holder.
 - 💬 Waiting for [osu lazer](https://github.com/ppy/osu)!
 
 <p align=center>⁂</p>
+
+## Gaming
+
+- ⚡ Frequently playing *DotA 2* (mainly *offlaner* or *soft support*) or various [IDLE games](https://en.wikipedia.org/wiki/Incremental_game) (thanks to [wine](https://github.com/wine-mirror/wine), [proton](https://github.com/ValveSoftware/Proton), [GE](https://github.com/GloriousEggroll/proton-ge-custom) and [lutris](https://github.com/lutris/lutris));
+- 📫 Currently farming [AO](https://albiononline.com/home) private islang.
 
 ## Statistics
 
