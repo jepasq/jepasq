@@ -24,7 +24,7 @@ backend in *C* or *C++*. Occasionally using interpreted languages such as *ruby*
 ## Gaming
 
 - ⚡ Frequently playing *DotA 2* (mainly *offlaner* or *soft support*) or various [IDLE games](https://en.wikipedia.org/wiki/Incremental_game) (thanks to [wine](https://github.com/wine-mirror/wine), [proton](https://github.com/ValveSoftware/Proton), [GE](https://github.com/GloriousEggroll/proton-ge-custom) and [lutris](https://github.com/lutris/lutris));
-- 📫 Currently farming [AO](https://albiononline.com/home) private islang.
+- 📫 Currently farming [AO](https://albiononline.com/home) private island.
 
 ## Statistics
 
