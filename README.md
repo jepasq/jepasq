@@ -2,8 +2,6 @@
 **jepasq/jepasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 📫 How to reach me: ...
 -->
 
 ## Bio
@@ -15,7 +13,7 @@ backend in *C* or *C++*. Occasionally using interpreted languages such as *ruby*
 
 - 🔭 Enrolled in **FreeCodeCamp**'s [data-visualization](https://www.freecodecamp.org/learn/data-visualization/) certification but currently on hiatus.
 - 🤔 Learning [DApp](https://en.wikipedia.org/wiki/Decentralized_application) model and [solidity](https://en.wikipedia.org/wiki/Solidity) in my spare time. 
-- ☕ Coffee lover and [mastodon](https://github.com/mastodon/mastodon) user (AT rainbru AT piaille.fr).
+- 📫 [mastodon](https://github.com/mastodon/mastodon) user (AT rainbru AT piaille.fr).
 - 🌱 Almost happy [Manjaro](https://manjaro.org/) and  [POS](https://en.wikipedia.org/wiki/Proof_of_stake) crypto-currencies holder.
 - 💬 Waiting for [osu lazer](https://github.com/ppy/osu)!
 
@@ -38,3 +36,8 @@ Here are some ~not so~ useful statistics :
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jepasq.jepasq)
+
+<div align=center>⁂
+
+☕ *`TeX` is not my most used language* ☕
+</div>
