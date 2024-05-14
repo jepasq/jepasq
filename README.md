@@ -36,8 +36,3 @@ Here are some ~not so~ useful statistics :
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jepasq.jepasq)
-
-<div align=center>⁂
-
-☕ *`TeX` is not my most used language* ☕
-</div>
