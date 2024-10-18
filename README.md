@@ -23,6 +23,8 @@ backend in *C* or *C++*. Occasionally using interpreted languages such as *ruby*
 
 - ⚡ Frequently playing *DotA 2* (mainly *offlaner* or *soft support*), *SMITE* or various [IDLE games](https://en.wikipedia.org/wiki/Incremental_game) (thanks to [wine](https://github.com/wine-mirror/wine), [proton](https://github.com/ValveSoftware/Proton), [GE](https://github.com/GloriousEggroll/proton-ge-custom) and [lutris](https://github.com/lutris/lutris));
 - 🗺 *The Elder Scrolls* (through [openmw](https://openmw.org/)) enjoyer.
+- 🧪 Early [Deadlock](https://store.steampowered.com/app/1422450/Deadlock/) 
+  enthusiast.
 <!--
 - 🏝 Currently farming [AO](https://albiononline.com/home) private island.
 -->
