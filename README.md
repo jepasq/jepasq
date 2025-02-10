@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ## Bio
 
-Hi there 👋.
+Hi there 👋 I'm **jepasq** (AKA *rainbru* or *solebull* on another networks).
 
 I'm every day involved in free software development, mainly &mdash; but not only &mdash; in
 backend in *C* or *C++*. Occasionally using interpreted languages such as *ruby* or *python*. Regularly trying to learn new, functionnal languages (including *haskell*, *ocaml*, multiple *scheme* dialects and *erlang*). Some of these test repositories may spawn around.
@@ -24,11 +24,12 @@ backend in *C* or *C++*. Occasionally using interpreted languages such as *ruby*
 - 🧪 Early [Deadlock](https://store.steampowered.com/app/1422450/Deadlock/) 
   enthusiast;
 - 💬 Fully swicthed to [osu lazer](https://github.com/ppy/osu)!
+- 🏝 Currently farming [AO](https://albiononline.com/home) private island and
+  *Diablo 3* new season.
+<!--
 - ⚙ [Factorio 2](https://factorio.com/buy-space-age) spaghetti enjoyer but
   *Gleba* hater.
-<!--
 - 🗺 *The Elder Scrolls* (through [openmw](https://openmw.org/)) enjoyer.
-- 🏝 Currently farming [AO](https://albiononline.com/home) private island.
 -->
 ## Statistics
 
